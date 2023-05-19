@@ -1,4 +1,4 @@
-# Review my pull request
+# Review My Pull Request
 
 A GitHub repository that serves the purpose of learning how use GitHub's code review feature for pull requests.
 
